@@ -1,2 +1,1 @@
-console.log("vishal");
-console.log("test 1");
+console.log("main");
